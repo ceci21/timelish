@@ -128,7 +128,7 @@ export default class App extends React.Component {
       } else {
         console.log("That is not a number!");
       }
-    }}>Create!</button>
+    }}>+</button>
   }
 
   getIntervals() {
